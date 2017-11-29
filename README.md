@@ -1,0 +1,2 @@
+# jhipster-sanctum
+inner sanctum 
